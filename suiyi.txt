@@ -1,3 +1,4 @@
 1suiyi
 2suiyi
 3suiyi
+/usr/bin/env
